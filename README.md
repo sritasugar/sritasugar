@@ -7,7 +7,7 @@
 #####
 - she/her <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDM5ODFwemZxemVtYXU0bWE1bW1tM3MwdG1hc2hudDlvOGVyNmU0bCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/axHMcU7f1DaWBUFMdN/giphy.gif" width="40">
 - !Languages:
-  - JavaScript//**html**//SQL.
+  -**Python**//SQL.
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmg2MHBtMHZvNTU1MzM5ajN3NXJyaWh0dTUybzVla3I5ODRodXZ4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvd7mliQMHBhJepGd3/giphy.gif" width="300">
  
